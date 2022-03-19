@@ -6,7 +6,7 @@
 Summary:	errors: Simplified error-handling
 Name:		ghc-%{pkgname}
 Version:	2.3.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/errors
